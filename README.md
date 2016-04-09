@@ -5,7 +5,6 @@ These are my personal Webstorm settings which include:
 * CMD Support
 * BASH Support
 * Disable `Autosave`
-* [Hack Font](https://github.com/chrissimpkins/Hack)
 
 ### Before Install
 #####Install the Hack font:
