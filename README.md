@@ -2,6 +2,8 @@
 These are my personal Webstorm settings which include:
 * VIM Plugin
 * Markdown Support
+* CMD Support
+* BASH Support
 * Disable `Autosave`
 * [Webstorm-Snippets]([https://github.com/ifahrentholz/webstorm-snippets])
 * [Hack Font](https://github.com/chrissimpkins/Hack)
