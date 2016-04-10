@@ -4,7 +4,7 @@ These are my personal Webstorm settings which include:
 * Markdown Support
 * CMD Support
 * BASH Support
-* Disable `Autosave`
+
 
 ### Before Install
 #####Install the Hack font:
