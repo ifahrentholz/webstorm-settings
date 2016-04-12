@@ -21,7 +21,3 @@ These are my personal Webstorm settings which include:
 ### After Install
 ##### I highly recommend to install the webstorm-snippets:
 * [Webstorm-Snippets]([https://github.com/ifahrentholz/webstorm-snippets])
-
-##### Install and use the Hack font: 
-* Download and install the font on your system: [Hack](https://github.com/ifahrentholz/editor-settings/tree/master/fonts/Hack)
-
