@@ -1,9 +1,8 @@
 # IDEA editor settings
 These are my personal Webstorm settings which include:
-* VIM Plugin
 * Markdown Support
-* CMD Support
-* BASH Support
+* Apache Config (.htaccess) support
+* Material Theme UI
 
 
 ### Before Install
