@@ -17,6 +17,5 @@ These are my personal Webstorm settings which include:
 5. Restart your IDE
 
 
-### After Install
-##### I highly recommend to install the webstorm-snippets:
+### Maybe also interestin:
 * [Webstorm-Snippets]([https://github.com/ifahrentholz/webstorm-snippets])
