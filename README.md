@@ -1,8 +1,7 @@
 # IDEA editor settings
 These are my personal Webstorm settings which include:
 * Markdown Support
-* Apache Config (.htaccess) support
-* Material Theme UI
+* Relax-Your-Eyes theme
 
 
 ### Before Install
